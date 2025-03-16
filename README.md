@@ -4,7 +4,7 @@
 ---
 
 🌟 **About Me**  
-- 🔭 I’m currently working on a **MERN stack project** at [Network Hats](https://networkhats.com.np/).  
+- 🔭 I’m currently doing my internship at [Intuji, Sanepa](https://intuji.com/).  
 - 🌱 Currently diving into **Express.js** and exploring the world of **Machine Learning**.  
 - 👨‍💻 Check out my work at [**My Portfolio**](https://www.aryanmalla.com.np/).  
 - 📫 Feel free to reach out: **aryanmalla19@gmail.com**  
