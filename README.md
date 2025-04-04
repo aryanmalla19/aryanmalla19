@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aryan Malla</h1>
-<h3 align="center">A Passionate Web Developer and Aspiring Data Scientist from Nepal</h3>
+<h3 align="center">A Passionate Web Developer & Aspiring Data Scientist from Nepal</h3>
 
 ---
 
 🌟 **About Me**  
-- 🔭 I’m currently doing my internship at [Intuji, Sanepa](https://intuji.com/).  
-- 🌱 Currently diving into **Express.js** and exploring the world of **Machine Learning**.  
-- 👨‍💻 Check out my work at [**My Portfolio**](https://www.aryanmalla.com.np/).  
-- 📫 Feel free to reach out: **aryanmalla19@gmail.com**  
+<p align="center">
+  🔭 I'm currently doing my internship at <a href="https://intuji.com/" target="_blank">[Intuji, Sanepa](https://intuji.com/)</a>.  
+  🌱 Exploring **Express.js** and diving deep into **Machine Learning**.  
+  👨‍💻 Check out my work at <a href="https://www.aryanmalla.com.np/" target="_blank"><strong>My Portfolio</strong></a>.  
+  📫 Feel free to reach out: <strong>aryanmalla19@gmail.com</strong>
+</p>
 
 ---
 
@@ -29,7 +31,7 @@
 
 ---
 
-<h3 align="center">💻 Languages and Tools:</h3>
+<h3 align="center">💻 Languages & Tools:</h3>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
@@ -82,6 +84,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmalla19" alt="GitHub Streak" />
 </p>
 
----
-
-✨ *Crafted with love by Aryan Malla* ✨
