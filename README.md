@@ -1,13 +1,20 @@
-🌌 Welcome to Aryan Malla's Universe!  
-Hey there! I’m Aryan Malla, a web development enthusiast and an aspiring data scientist hailing from the beautiful landscapes of Nepal. I’m all about crafting seamless digital experiences and uncovering insights from data. Ready to explore my world? Let’s dive in! 🚀
+# 🌌 Welcome to Aryan Malla's Universe!
 
-✨ Who Am I?  
-🔍 Currently: Interning at Intuji, Sanepa, where I’m sharpening my skills and building cool stuff.  
-🌿 Learning Journey: Mastering Express.js and venturing into the fascinating realm of Machine Learning.  
-💻 Portfolio: See what I’ve been up to at aryanmalla.com.np.  
-📧 Say Hi: Drop me a line at aryanmalla19@gmail.com – I’d love to chat!
+Hey there! I’m **Aryan Malla**, a web development enthusiast and an aspiring data scientist hailing from the beautiful landscapes of Nepal. I’m all about crafting seamless digital experiences and uncovering insights from data. Ready to explore my world? Let’s dive in! 🚀
 
-🌍 Let’s Connect!  
+---
+
+## ✨ Who Am I?
+
+- **🔍 Currently:** Interning at [Intuji, Sanepa](https://intuji.com/), where I’m sharpening my skills and building cool stuff.
+- **🌿 Learning Journey:** Mastering **Express.js** and venturing into the fascinating realm of **Machine Learning**.
+- **💻 Portfolio:** See what I’ve been up to at [aryanmalla.com.np](https://aryanmalla.com.np/).
+- **📧 Say Hi:** Drop me a line at **aryanmalla19@gmail.com** – I’d love to chat!
+
+---
+
+## 🌍 Let’s Connect!
+
 Catch me on the interwebs:
 
 <p align="center"> 
@@ -25,7 +32,10 @@ Catch me on the interwebs:
   </a> 
 </p>
 
-🛠️ My Tech Arsenal  
+---
+
+## 🛠️ My Tech Arsenal
+
 Here’s the toolkit I wield to build and analyze:
 
 <p align="center"> 
@@ -43,15 +53,21 @@ Here’s the toolkit I wield to build and analyze:
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" title="Figma"/> 
 </p>
 
-📈 My GitHub Galaxy  
+---
+
+## 📈 My GitHub Galaxy
+
 Check out my coding stats and streaks:
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanmalla19&show_icons=true&locale=en&layout=compact" alt="Top Languages"/> 
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanmalla19&show_icons=true&locale=en" alt="GitHub Stats"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmalla19" alt="GitHub Streak"/> 
 </p>
 
-🚀 What’s Next?  
+---
+
+## 🚀 What’s Next?
+
 I’m always on the lookout for exciting projects and collaborations. If you’ve got an idea or just want to geek out over code and data, let’s make it happen!
 
+Thanks for stopping by – let’s build something amazing together! 🌟
