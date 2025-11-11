@@ -1,6 +1,6 @@
-<div align="center">
+<div>
 
-# 🌌 Welcome to Aryan Malla's Universe!
+# Welcome to Aryan Malla's Github Account!
 
 **Hey there!** I’m **Aryan Malla**, a passionate web developer from the beautiful landscapes of Nepal.  
 I specialize in building **robust, scalable web applications** with the **Laravel** ecosystem.  
@@ -19,7 +19,7 @@ I specialize in building **robust, scalable web applications** with the **Larave
 ## 🌍 Let’s Connect!
 
 <a href="https://twitter.com/aryanmalla19" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/twitter.svg" alt="Twitter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" alt="Twitter" width="40" height="40"/>
 </a>
 <a href="https://linkedin.com/in/aryanmalla19" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
