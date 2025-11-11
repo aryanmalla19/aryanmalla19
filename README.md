@@ -1,6 +1,15 @@
-<div>
+<style>
+  .social-icons img {
+    filter: brightness(0) invert(1); /* Makes black icons white */
+  }
+    .social-icons a {
+    margin: 0 10px; /* horizontal spacing */
+    display: inline-block;
+  }
+</style>
 
-## <div align="center">Welcome to Aryan Malla's Github Account!</div>
+<div>
+# <div align="center">Welcome to Aryan Malla's Github Account!</div>
 
 Hey there! I’m **Aryan Malla**, a passionate web developer from the beautiful landscapes of Nepal.  
 I specialize in building **robust, scalable web applications** with the **Laravel** ecosystem.  
@@ -18,9 +27,9 @@ I specialize in building **robust, scalable web applications** with the **Larave
 
 ## 🌍 Let’s Connect!
 
-<div align="center">
+<div align="center" class="social-icons">
   <a href="https://twitter.com/aryanmalla19" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" alt="Twitter" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" alt="Twitter" width="40" height="40"/>
   </a>
   <a href="https://linkedin.com/in/aryanmalla19" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
@@ -32,6 +41,7 @@ I specialize in building **robust, scalable web applications** with the **Larave
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/facebook.svg" alt="Facebook" width="40" height="40"/>
   </a>
 </div>
+
 
 ---
 
@@ -56,7 +66,7 @@ I specialize in building **robust, scalable web applications** with the **Larave
 ## 📈 My GitHub & GitLab Galaxy
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanmalla19&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,python,tex&theme=radical" alt="Top Languages"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmalla19&theme=radical" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=aryanmalla19&theme=radical" alt="GitHub Streak"/>
 
 ---
 
