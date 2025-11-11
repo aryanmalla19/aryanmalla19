@@ -1,6 +1,5 @@
-<div>
 # Welcome to Aryan Malla's Github Account!
-
+<div>
 Hey there! I’m **Aryan Malla**, a passionate web developer from the beautiful landscapes of Nepal.  
 I specialize in building **robust, scalable web applications** with the **Laravel** ecosystem.  
 *Ready to create something awesome? Let’s dive in!*
