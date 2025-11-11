@@ -1,13 +1,3 @@
-<style>
-  .social-icons img {
-    filter: brightness(0) invert(1); /* Makes black icons white */
-  }
-    .social-icons a {
-    margin: 0 10px; /* horizontal spacing */
-    display: inline-block;
-  }
-</style>
-
 <div>
 # <div align="center">Welcome to Aryan Malla's Github Account!</div>
 
