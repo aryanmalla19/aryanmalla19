@@ -1,10 +1,12 @@
-# 🌌 Welcome to Aryan Malla's Universe!
+## 🌌 Welcome to Aryan Malla's Github Account!
 
-### Hey there! I’m **Aryan Malla**, a passionate web developer from the beautiful landscapes of Nepal. I specialize in building robust, scalable web applications with the **Laravel** ecosystem. Ready to create something awesome? Let’s dive in!
+-
+Hey there! I’m **Aryan Malla**, a passionate web developer from the beautiful landscapes of Nepal. I specialize in building robust, scalable web applications with the **Laravel** ecosystem. Ready to create something awesome? Let’s dive in!
+-
 ---
 ## ✨ Who Am I?
 - **🔍 Currently:** Junior **Laravel Developer** at [Mantra IT Solution](https://mantrait.com.np/), crafting high-performance back-end systems and full-stack solutions.
-- **🌱 Learning Journey:** Mastering **Laravel**, **Livewire**, **Inertia.js**, **Vue.js**, **TypeScript**, and modern PHP practices.
+- **🌱 Learning Journey:** Mastering **Laravel**, **Livewire**, **Inertia.js**, **React.js**, **TypeScript**, and modern PHP practices.
 - **💻 Portfolio:** Explore my projects at [aryanmalla.com.np](https://aryanmalla.com.np/).
 - **📧 Say Hi:** Drop me a line at **aryanmalla19@gmail.com** – always open to collaboration!
 
@@ -29,7 +31,7 @@
 ## 🛠️ My Tech Arsenal
 Here’s the Laravel-powered toolkit I use to build modern web applications:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" title="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" title="Laravel"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP"/>
   <img src="https://cdn.worldvectorlogo.com/logos/livewire-1.svg" alt="Livewire" width="40" height="40" title="Livewire"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" title="Vue.js"/>
